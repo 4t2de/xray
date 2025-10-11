@@ -1,0 +1,7 @@
+data/
+.ipynb_checkpoints/
+test/
+top_anomalies/
+
+*.pth
+*.npy
